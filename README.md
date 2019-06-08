@@ -15,8 +15,8 @@ _withdrawals,deposits and see always the balance of the account update whenever 
 ## Program Specifications
 
   - User creates an account: enter the name and initial deposit, that data is stored in a new object.
-    - **Example Input:** 1,000,000,000
-    - **Example Output:** {current balance: 1000000000}
+    - **Example Input:** 100000 (hundred thousand)
+    - **Example Output:** {current balance: €100,000.00}
   - User confirms application, site displays updated current balance.
   - User submits transaction, deposit or withdrawal amounts are used to update the current balance.
   - When transaction is submitted front-end current balance is updated.
